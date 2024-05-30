@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RASEC\\Desktop\\TEST\\ProyectoPruebas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D6FFF-58F7-4B2B-A03A-355A857588C7}|TestProject1\\TestProject1.csproj|c:\\users\\rasec\\desktop\\test\\proyectopruebas\\testproject1\\calctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D6FFF-58F7-4B2B-A03A-355A857588C7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\calctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcTests.cs",
+              "DocumentMoniker": "C:\\Users\\RASEC\\Desktop\\TEST\\ProyectoPruebas\\TestProject1\\CalcTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CalcTests.cs",
+              "ToolTip": "C:\\Users\\RASEC\\Desktop\\TEST\\ProyectoPruebas\\TestProject1\\CalcTests.cs",
+              "RelativeToolTip": "TestProject1\\CalcTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:09:30.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
